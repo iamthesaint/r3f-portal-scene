@@ -27,4 +27,3 @@ logs/
 
 # React specific
 *.cache/
-public/
